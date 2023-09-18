@@ -1,12 +1,14 @@
-## Video Config
+# Configuring Video Settings for Apex Legends
 
-### Instructions
+To configure your video settings in Apex Legends, follow these steps:
 
-1. Open the File Explorer and navigate to the following path: `%USERPROFILE%\Saved Games\Respawn\Apex\local` (without the quotation marks).
-2. Find the `videoconfig.txt` file and open it using either Wordpad or Notepad++.
-3. Replace all the existing content in the file with the code from the `videoconfig` file.
-4. Save your changes and make sure to set the file as read-only.
+1. Open File Explorer and navigate to the following path:
+   ```
+   %USERPROFILE%\Saved Games\Respawn\Apex\local
+   ```
 
-### Note
+2. Locate the `videoconfig.txt` file.
 
-By following these steps, you can configure your video settings effectively for Apex Legends.
+3. Replace the existing `videoconfig.txt` file with the new `videoconfig.txt` file.
+
+4. Make sure to set the `videoconfig.txt` file as read-only.
